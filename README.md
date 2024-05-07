@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**Jackks27/Jackks27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi respositorio personal,
 
-Here are some ideas to get you started:
+Soy Javier Aguayo, actualmente estoy estudiando Ingenería Electrónica pero ya poseo el titulo de
+Tecnico Superior en Automatización y Robotica Industrial con experiencia técnica en Cuadrista Eléctrico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi objetivos actuales son varios, pero los proncipales tres son:
+- Crear una red de contactos con empresas, estudiantes y profesores. 🌐
+- Aprender todo lo posible tanto dentro como fuera de las clases. 🧑‍🎓
+- Disfrutar al máximo y sin prisa mi vida universitaria. 🍻
+
+A largo plazo mi meta a lograr es:
+- Representar un alto cargo en el mundo de la robótica, ya sea como empresario o como autónomo. 🏢
+- Trabajar en un equipo de creación e investigación tecnológica del ámbito de la róbotica. 🤖
+- Ganar mucho dinero que me permita vivir una vida sin preocupaciones. 💸
+
+Si quieren conocerme más personalmente, no duden en visitar las redes sociales de mi perfil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
