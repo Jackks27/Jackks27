@@ -1,4 +1,4 @@
-### # Hi there! I'm Javier Aguayo
+### Hi there! I'm Javier Aguayo
 
 Welcome to my personal repository.
 
