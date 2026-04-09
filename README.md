@@ -1,22 +1,21 @@
-### Hi there 👋
+### # Hi there! I'm Javier Aguayo
 
-Bienvenido a mi respositorio personal,
+Welcome to my personal repository.
 
-Soy Javier Aguayo, actualmente estoy estudiando Ingenería Electrónica pero ya poseo el titulo de
-Tecnico Superior en Automatización y Robotica Industrial con experiencia técnica en Cuadrista Eléctrico.
+I am an **Industrial Electronic Engineering** student at the University of Malaga. I hold a **Higher Degree in Industrial Automation and Robotics** and have professional experience as an **Electrical Control Panel Technician**.
 
-Mi objetivos actuales son varios, pero los proncipales tres son:
-- Crear una red de contactos con empresas, estudiantes y profesores. 🌐
-- Aprender todo lo posible tanto dentro como fuera de las clases. 🧑‍🎓
-- Disfrutar al máximo y sin prisa mi vida universitaria. 🍻
+### My Current Focus
+* **Strategic Networking:** Building a global network of professionals, students, and mentors within the robotics and automation ecosystem.
+* **Continuous Learning:** Deepening my expertise in State-of-the-Art technologies, including **YOLOv26**, **ROS 2**, and **Computer Vision**.
+* **Academic & Professional Growth:** Leveraging my background as a former **Team Co-Leader** and **Communications Lead** at RoboRescue UMA to balance technical engineering with strategic project management.
 
-A largo plazo mi meta a lograr es:
-- Representar un alto cargo en el mundo de la robótica, ya sea como empresario o como autónomo. 🏢
-- Trabajar en un equipo de creación e investigación tecnológica del ámbito de la róbotica. 🤖
-- Ganar mucho dinero que me permita vivir una vida sin preocupaciones. 💸
+### Long-Term Vision
+* **Technological Leadership:** Scaling into high-level positions within the robotics industry, either as a technology entrepreneur or a specialized independent consultant.
+* **R&D Innovation:** Contributing to world-class research and development teams to push the boundaries of robotic and autonomous systems.
+* **Financial Independence:** Building a high-impact career that ensures professional success and long-term financial stability.
 
-Si quieren conocerme más personalmente, no duden en visitar las redes sociales de mi perfil.
-
+---
+*If you would like to connect or learn more about my work, feel free to visit the social links in my profile.*
 
 
 
